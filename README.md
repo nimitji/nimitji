@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nimitji
-- 👀 I’m interested in creating not only softwares instead compelet ecosystems 
-- 🌱 I’m currently learning and experiencing the Flutter and Dart
+- 👀 I’m interested in creating not only softwares instead complete ecosystems 
 - 📫 How to reach me nimitji@gmail.com
 
 <!---
